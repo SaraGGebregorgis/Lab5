@@ -62,7 +62,7 @@ let main = weatherInfo.main
 console.log(main)
 
 let currentTemp = main.temp
-console.log(currentTemp)    // and there's the temp!
+console.log(currentTemp)    // and there's the temperature!
 
 // Or, combine all these steps into one 
 // test this type of code and make sure you don't miss a step.

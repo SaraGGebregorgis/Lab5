@@ -15,7 +15,7 @@ let whisperAndShout = whisper.concat(shouts) //join strings together
 let replace0 = text.replace('o', '0') //Replace the first instance of first thing with
                                       //second thing see reference for more info on this
                                       //can also do global and more complex replacements
-                                      //with regular expressions
+                                      //with regular expression
                                 
 let replaceAll0 = text.replace(/o/g, '0') //Replace the all instance of first thing with second thing
 

@@ -1,6 +1,6 @@
 function CityandState(city, state) {
-    let State = state.toUpperCase()
-    address = city + ', ' + State
+    let States = state.toUpperCase()
+    address = city + ', ' + States
     return address
 }
 

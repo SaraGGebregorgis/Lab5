@@ -16,7 +16,7 @@ if (newCustomer === true || haveEmail === false) {
 }
 
 
-//! resverse of the true value
+//! resverse of the true value 
 if (newCustomer || !haveEmail ) {
     console.log('Need to request customer\'s email')
 }

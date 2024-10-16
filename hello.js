@@ -16,7 +16,7 @@ console.log(total)
 
 //text is the function parameter, used to send data to the function
 function shout(text) {
-    return text.toUpperCase() + '!!!!'
+    return text.toUpperCase() + '!!!'
 }
 console.log(shout('hello'))
 

@@ -40,9 +40,9 @@ for (let i = 0; i < letters.length; i++) {
 //Another way of looping over an array
 //if dont know to positon of the elements, notice the fun def called
 let animals = ['Buffalo', 'Elephant', 'Yak']
-animals.forEach(function(element)) {
+animals.forEach(function(element){
     console.log(element)
-}
+})
 
 /*  forLoop: More flexible and allows control over the index,
  useful when you need to perform 

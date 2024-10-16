@@ -29,7 +29,7 @@ console.log(number_5 === string_5) //False
 //as well as same value
 //the string 5 is not considered to be equal to num 5 bs ===
 
-//!= not equals operator
+//!= not equals operator 
 console.log(number_5 != string_5) //False
 //types are coerced and the string 5 is considered to be equal 
 

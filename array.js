@@ -52,7 +52,7 @@ birds.sort() //in ascending order
 console.log(birds)
 
 let  allBirds = birds.join() //join all elements into a string
-                                // separated by commas
+                                // separated by comma
 let allBirdWithSeparator = birds.join(' & ')
 
 console.log(allBirds)

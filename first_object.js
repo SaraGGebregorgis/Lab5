@@ -8,5 +8,5 @@
 user.password = 'zebras'
 console.log(`New password is ${user.password}`)
 
-user[password] = 'lion'
+user['password'] = 'lion'
 console.log(`User password is now ${user.password}`)
